@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7OzXnrqbtHzN3UpxjteLDnzYviieFjGooQha1tCZeHhqRB8ktbXeiWth2ABcbkncaMulOqKJBsdgi2mva2bSFA==",
+  "success": false,
+  "projectFilePath": "C:\\Hdis\\Bynder\\webdam-c-sharp-sdk\\Webdam.Test\\Webdam.Test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Hdis\\Bynder\\webdam-c-sharp-sdk\\packages' doesn't exist.",
+      "libraryId": "Microsoft.NET.Test.Sdk"
+    }
+  ]
+}

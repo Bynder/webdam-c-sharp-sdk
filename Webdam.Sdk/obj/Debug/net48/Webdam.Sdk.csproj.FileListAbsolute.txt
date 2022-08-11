@@ -1,0 +1,12 @@
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\bin\Debug\net48\Webdam.Sdk.dll
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\bin\Debug\net48\Webdam.Sdk.pdb
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\bin\Debug\net48\System.Net.Http.Formatting.dll
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\obj\Debug\net48\Webdam.Sdk.csproj.AssemblyReference.cache
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\obj\Debug\net48\Webdam.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\obj\Debug\net48\Webdam.Sdk.AssemblyInfoInputs.cache
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\obj\Debug\net48\Webdam.Sdk.AssemblyInfo.cs
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\obj\Debug\net48\Webdam.Sdk.csproj.CoreCompileInputs.cache
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\obj\Debug\net48\Webdam.Sdk.csproj.CopyComplete
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\obj\Debug\net48\Webdam.Sdk.dll
+C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\obj\Debug\net48\Webdam.Sdk.pdb

@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-		<TargetFrameworks>netstandard2.1;net48</TargetFrameworks>
+		<TargetFrameworks>netstandard2.1;net48;net471</TargetFrameworks>
     <AssemblyName>Webdam.Sdk</AssemblyName>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <RootNamespace>Webdam.Sdk</RootNamespace>
@@ -15,6 +15,7 @@
     <PackageTags>Webdam Bynder API C# SDK</PackageTags>
     <PackageReleaseNotes>Initial version, OAuth workflow and retrieving of (specific) folders and assets</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 	<ItemGroup>
