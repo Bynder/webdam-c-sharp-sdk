@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31410.357
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Webdam.Sdk", "Webdam.Sdk\Webdam.Sdk.csproj", "{D84BD831-F088-4094-ACC5-7B6FAC926BC8}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Webdam.Test", "Webdam.Test\Webdam.Test.csproj", "{F376B778-AB5C-457C-8BE5-E11779100E55}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Webdam.Sample", "Webdam.Sample\Webdam.Sample.csproj", "{2B6961BA-3A1E-427D-8532-A579DEAA1965}"
 EndProject
@@ -19,10 +17,6 @@ Global
 		{D84BD831-F088-4094-ACC5-7B6FAC926BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D84BD831-F088-4094-ACC5-7B6FAC926BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D84BD831-F088-4094-ACC5-7B6FAC926BC8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F376B778-AB5C-457C-8BE5-E11779100E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F376B778-AB5C-457C-8BE5-E11779100E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F376B778-AB5C-457C-8BE5-E11779100E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F376B778-AB5C-457C-8BE5-E11779100E55}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2B6961BA-3A1E-427D-8532-A579DEAA1965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2B6961BA-3A1E-427D-8532-A579DEAA1965}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B6961BA-3A1E-427D-8532-A579DEAA1965}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Webdam.Sdk</id>
+    <version>1.0.0</version>
+    <authors>ParTech</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>The main goal of this SDK is to speed up the integration of Webdam customers who use C# making it easier to connect to the Webdam API (https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API) and executing requests on it.</description>
+    <releaseNotes>Initial version, OAuth workflow and retrieving of (specific) folders and assets</releaseNotes>
+    <copyright>Copyright © Bynder</copyright>
+    <tags>Webdam Bynder API C# SDK</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.1">
+        <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.7" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.8">
+        <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.7" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.7" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\bin\Debug\net471\Webdam.Sdk.dll" target="lib\net471\Webdam.Sdk.dll" />
+    <file src="C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\bin\Debug\net48\Webdam.Sdk.dll" target="lib\net48\Webdam.Sdk.dll" />
+    <file src="C:\Hdis\Bynder\webdam-c-sharp-sdk\Webdam.Sdk\bin\Debug\netstandard2.1\Webdam.Sdk.dll" target="lib\netstandard2.1\Webdam.Sdk.dll" />
+  </files>
+</package>
